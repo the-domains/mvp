@@ -4,7 +4,7 @@
         <description><![CDATA[Muslim Voter Project]]></description>
         <link>https://thegrid.ai/mvp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 21:15:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2016 17:38:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mvp/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/mvp/6707b159-86d3-4210-b363-551011072b83/index.html</link>
             <guid isPermaLink="false">6707b159-86d3-4210-b363-551011072b83</guid>
             <pubDate>Mon, 21 Mar 2016 21:15:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Confused? We were, too.]]></title>
+            <description><![CDATA[<h1>Confused? We were, too.</h1>]]></description>
+            <link>https://thegrid.ai/mvp/confused-we-were-too/index.html</link>
+            <guid isPermaLink="false">c091e48e-2686-464b-856a-97a35b7acc29</guid>
+            <pubDate>Sun, 17 Apr 2016 17:37:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
