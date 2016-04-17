@@ -4,8 +4,15 @@
         <description><![CDATA[Muslim Voter Project]]></description>
         <link>https://thegrid.ai/mvp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 17:58:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2016 18:01:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mvp/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>the muslim american vote</p>]]></description>
+            <link>https://thegrid.ai/mvp/6707b159-86d3-4210-b363-551011072b83/index.html</link>
+            <guid isPermaLink="false">6707b159-86d3-4210-b363-551011072b83</guid>
+            <pubDate>Sun, 17 Apr 2016 18:01:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Confused? We were, too.]]></title>
             <description><![CDATA[<article><h1>Confused? We were, too.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb7a06ee76114d84ab472b5ed3a759f5e5f21d5c.png"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/mvp/whos-your-political-soulmate/index.html</link>
             <guid isPermaLink="false">745d5601-ba57-40bc-b496-12f88cce752d</guid>
             <pubDate>Sun, 17 Apr 2016 17:51:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>the muslim voter project</p>]]></description>
-            <link>https://thegrid.ai/mvp/6707b159-86d3-4210-b363-551011072b83/index.html</link>
-            <guid isPermaLink="false">6707b159-86d3-4210-b363-551011072b83</guid>
-            <pubDate>Sun, 17 Apr 2016 17:50:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
